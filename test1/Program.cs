@@ -8,6 +8,7 @@ namespace test1
         {
             Console.WriteLine("Test number 1!");
             Console.WriteLine("Test number 2!");
+            Console.WriteLine("Test number 3!");
         }
     }
 }
